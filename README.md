@@ -47,7 +47,7 @@ It is especially useful for beginners learning programming concepts
 ## Output Screenshot
 
 ### Sample Outputs
-<img width="250" height="120" src="" />
+<img width="250" height="120" src="https://github.com/madhujpatel/Madhuj-patel-10764/blob/dfd9aab2e82bea2dea4b5b7b5b5d0f4855e37194/WhatsApp%20Image%202026-01-08%20at%201.51.37%20PM.jpeg" />
 <img width="250" height="120" src="" />
 ---
 
